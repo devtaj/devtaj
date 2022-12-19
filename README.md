@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtaj&label=Profile%20views&color=0e75b6&style=flat" alt="devtaj" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Dart, C Programming.**
+- 🌱 I’m currently learning **Flutter.**
 
 - 👨‍💻 All of my projects are available at [https://tajdev.com.np/#/](https://tajdev.com.np/#/)
 
