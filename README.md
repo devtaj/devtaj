@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Tajpuriya</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<image align="right" alt="coding" width="400" src="https://i.gifer.com/embedded/download/QWsX.gif">
+<image align="center" alt="coding" width="400" src="https://i.gifer.com/embedded/download/QWsX.gif">
 
 - 🌱 I’m currently learning **Flutter**
 
