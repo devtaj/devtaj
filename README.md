@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [devtajpuriya.com.np](devtajpuriya.com.np)
+- 👨‍💻 All of my projects are available at [devtajpuriya.com.np](www.devtajpuriya.com.np)
 
 - 📫 How to reach me **devtaj.official@gmail.com**
 
